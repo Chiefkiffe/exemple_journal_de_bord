@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+la fluidité, le vocabulaire. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+le contenu, le temp et la mémoristion
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai préféré celle de Yavuz parce que j'y ais trouver beaucoup de similarité au mien et j'ai bien aimer le fait qu'il veuille aussi travailler sur gta VI comme moi.
