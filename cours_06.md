@@ -1,3 +1,15 @@
 # Cours 6
 ## Préparation en vue de la visite
-Préparer 5 questions en lien avec la visite que nous irons faire la semaine prochaine. Faites des recherches concernant ce que nous allons visiter afin d'en savoir plus. Les questions doivent porter sur des informations que vous ne pouvez pas trouver en ligne. 
+EIDOS
+
+1.quel sont les plus gros défi lors dela réalisation de vos projet?
+2.Quel logiciel utilisez-vous dans votre travail ?
+
+SID LEE
+
+3.quel a été votre plus gros projet
+
+PIX MOB
+
+4.Comment reuttiliser vous les objets recyclés (exemple)
+5.Combien d'arget et de temp mettez vouys pour préparer vos spectacles.
