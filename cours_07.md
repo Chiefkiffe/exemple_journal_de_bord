@@ -1,15 +1,4 @@
 # Cours 7
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
-### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
-
-### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
-
-### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+Minecraft est un jeu vidéo indépendant de type Bac à sable (construction complètement libre) développé par Markus Persson, plus connu sous le pseudonyme de Notch par la communauté. Il reste toujours en développement et reçoit régulièrement des mises à jour.Le jeu plonge le joueur dans un monde créé dynamiquement, composé de blocs, de différents matériaux représentant de la terre, du sable, de la pierre, de l'eau, des arbres, des animaux, etc. Le concept de base est que le joueur peut modifier ce monde à volonté en y ajoutant ou supprimant des cubes et en tentant de survivre le plus longtemps possible, lui permettant ainsi de bâtir des constructions avec une grande liberté.Un des grands intérêts du jeu réside dans la création dynamique du monde : chaque carte est générée aléatoirement au fur et à mesure que le joueur avance. Cependant les paysages sont cohérents et composés de plusieurs biomes (forêt, prairie, désert, jungle, toundra, taïga et par la suite marais et même champignons géants). Une carte donnée peut devenir très grande au fil de sa génération, jusqu’à l’équivalent de 8 fois la superficie de la Terre. Il est possible de jouer seul dans une carte générée dynamiquement, ou en multijoueur sur un serveur existant ou créé pour l'occasion.Le mode créatif permet au joueur de construire et de détruire les blocs instantanément à volonté. Il n'y a pas de fabrication d'objet : l'inventaire du joueur a tous les objets disponibles, exception faite aux blocs normalement inaccessibles sauf aux opérateurs d’un serveur comme le bloc de commandes. Ce mode est disponible en solo et en multijoueur. Les différents types de blocs sont présents dans l'inventaire du joueur. Les cartes sont plus petites et moins diversifiées que celles du mode survie. Il est aussi possible de voler en pressant deux fois de suite la touche de saut.
