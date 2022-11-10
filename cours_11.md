@@ -3,13 +3,14 @@
 Durée: 5 à 7 minutes
 
 ### Présentation
-Parlez du projet multimédia sélectionné. 
+Réalisation d'un moodboard d'inspiration.
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+
+[Presentation.pdf](https://github.com/Chiefkiffe/exemple_journal_de_bord/files/9985161/Presentation.pdf)
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+Photoshop
 
 ### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+la qualité du son etait vraiment mauvaise et pouvais etre largement ameliorer et donner plus d'indication claire.sinon le rendu etait plutot pas mal.
